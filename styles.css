@@ -1,6 +1,9 @@
 /*  your css code here. If applicable */
-.middle{
+table{
 	border: 1px solid rgb(0,0,0);
+}
+.middle{
+	
 	border-spacing:1px;
 	cell padding: 1px;
 
